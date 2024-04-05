@@ -17,12 +17,7 @@ Mục tiêu của dự án là tạo ra một hệ thống quản lý hiệu qu�
 - Cơ sở dữ liệu: PHPMyAdmin
 - Giao diện người dùng: HTML/CSS, Bootstrap
 
-## 🎭 Thành Viên Nhóm
-
-- Trần Vĩnh Kha B2011970
-- Trần Thế Nghiêm B2011980
-- Phạm Nhật Trường B2011998
-- Phạm Lê Như Quỳnh B2011988
+## 🎭 Trần Vĩnh Kha B2011970
 
 ## 🎟️ Cách Sử Dụng
 
